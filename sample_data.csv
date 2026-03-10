@@ -7,10 +7,11 @@ id,name,department,salary,joining_date,performance_score,city
 6,Ananya Iyer,Marketing,74000,2021-06-30,3.5,Pune
 7,Karthik Nair,Engineering,95000,2018-04-12,4.7,Bangalore
 8,Meera Joshi,HR,65000,2023-02-20,3.6,Mumbai
-9,Arjun Das,Finance,82000,2019-08-25,4.0,Delhi
+9,Arjun Das,Finance,82000,2019-08-25,4,Delhi
 10,Divya Kumar,Engineering,88000,2020-12-01,4.3,Chennai
 11,Rohan Mehta,Marketing,70000,2022-05-14,3.4,Pune
 12,Neha Verma,Finance,76000,2021-10-08,3.7,Hyderabad
 13,Siddharth Rao,Engineering,93000,2018-01-20,4.6,Bangalore
 14,Pooja Mishra,HR,67000,2023-07-11,3.2,Mumbai
 15,Aditya Chopra,Marketing,73000,2020-03-28,3.9,Delhi
+16,dsd,Engineering,70000,2025-01-01,3.5,
