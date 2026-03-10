@@ -14,4 +14,5 @@ id,name,department,salary,joining_date,performance_score,city
 13,Siddharth Rao,Engineering,93000,2018-01-20,4.6,Bangalore
 14,Pooja Mishra,HR,67000,2023-07-11,3.2,Mumbai
 15,Aditya Chopra,Marketing,73000,2020-03-28,3.9,Delhi
-16,dsd,Engineering,70000,2025-01-01,3.5,
+16,dsd,Engineering,70000,2025-01-01,3.5,NA
+16,Niyamat,Engineering,10000000,2025-01-01,3.5,
